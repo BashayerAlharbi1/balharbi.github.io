@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Resume Available for [Download](https://github.com/ByAlharbi/byalharbi.github.io/blob/master/files/BAlharbi_Resume.pdf).
+Resume Available for [Download](http://Byalharbi.github.io/files/BAlharbi_Resume.pdf).
