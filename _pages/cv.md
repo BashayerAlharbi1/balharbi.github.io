@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Resume Available for [Download](http://Byalharbi.github.io/files/BAlharbi_Resume.pdf).
+Please [email](mailto:bashayer.alharbi@colorado.edu) for my resume.
